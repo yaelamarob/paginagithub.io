@@ -4,16 +4,15 @@
 
 Está será mi nueva pagina para subir informacion sobre consas de ingeniería y coasa así. 
 Trataré de combatir la infodemia, que hoy vivimos.
-### Markdown
+### Temas de ingenieria y tecnología.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Se harán varios temas de investigacion sobre saliente para retroalimentacion de la poblacion. 
 ```markdown
-Syntax highlighted code block
+Vamos poco apoco 
 
-# Header 1
-## Header 2
-### Header 3
+# amor
+## felicidad 
+### libertar
 
 -** Bulleted
 - List**

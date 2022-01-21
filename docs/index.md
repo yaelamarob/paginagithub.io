@@ -2,8 +2,8 @@
 
 ## comenzamos a programar en jekell
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Está será mi nueva pagina para subir informacion sobre consas de ingeniería y coasa así. 
+Trataré de combatir la infodemia, que hoy vivimos.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+-** Bulleted
+- List**
 
 1. Numbered
 2. List

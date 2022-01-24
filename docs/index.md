@@ -33,7 +33,6 @@ Tu puede consultar informacion de venta en [Opensea ](https://opensea.io/)
 <table>
   <tr>
     <td>
-      
            hi
     </td>
   </tr>

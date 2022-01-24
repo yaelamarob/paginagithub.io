@@ -31,7 +31,8 @@ Vamos poco apoco
 
 Tu puede consultar informacion de venta en [Opensea ](https://opensea.io/)
 <table>
-  <tr>
+  <tr>[cv yael facundo amaro barrera (administrativo e ingeniera) coordinador.pdf](https://github.com/yaelamarob/paginagithub.io/files/7929468/cv.yael.facundo.amaro.barrera.administrativo.e.ingeniera.coordinador.pdf)
+
     <td>
            hi
     </td>
@@ -42,3 +43,5 @@ okay.
 | foo | bar |
 | --- | --- |
 | baz | bim |
+[CV YAEL FACUNDO AMARO BARRERA SSB.pdf](https://github.com/yaelamarob/paginagithub.io/files/7929471/CV.YAEL.FACUNDO.AMARO.BARRERA.SSB.pdf)
+

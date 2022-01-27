@@ -42,4 +42,8 @@ okay.
 | baz | bim |
 [CV YAEL FACUNDO AMARO BARRERA SSB.pdf](https://github.com/yaelamarob/paginagithub.io/files/7929471/CV.YAEL.FACUNDO.AMARO.BARRERA.SSB.pdf)
 ![imagen de f1](https://user-images.githubusercontent.com/88688927/151027034-b8713e89-358e-4c6e-b2bf-715411020245.jpg)
-
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: bug
+assignees: '

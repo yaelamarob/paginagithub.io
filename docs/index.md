@@ -27,19 +27,7 @@ Vamos poco apoco
 ### Cryptoimformacion clara
 
 Tu puede consultar informacion de venta en [Opensea ](https://opensea.io/)
-<table>
-  <tr>[cv yael facundo amaro barrera (administrativo e ingeniera) coordinador.pdf](https://github.com/yaelamarob/paginagithub.io/files/7929468/cv.yael.facundo.amaro.barrera.administrativo.e.ingeniera.coordinador.pdf)
 
-    <td>
-           hi
-    </td>
-  </tr>
-</table>
-
-okay.
-| foo | bar |
-| --- | --- |
-| baz | bim |
 [CV YAEL FACUNDO AMARO BARRERA SSB.pdf](https://github.com/yaelamarob/paginagithub.io/files/7929471/CV.YAEL.FACUNDO.AMARO.BARRERA.SSB.pdf)
 ![imagen de f1](https://user-images.githubusercontent.com/88688927/151027034-b8713e89-358e-4c6e-b2bf-715411020245.jpg)
 
@@ -51,3 +39,11 @@ labels: bug
 assignees: ''
 
 ---
+**Acknowledge the following**
+- [ ] I carefully read and followed the [Getting Started](https://github.com/alshedivat/al-folio#getting-started) guide.
+- [ ] I read through [FAQ](https://github.com/alshedivat/al-folio#faq) and searched through the [past issues](https://github.com/alshedivat/al-folio/issues), none of which addressed my issue.
+- [ ] The issue I am raising is a potential bug in al-folio and not just a usage question. <br> [For usage questions, please post in the [Discussions](https://github.com/alshedivat/al-folio/discussions) instead of raising an issue.]
+
+**Describe the bug**
+A clear and concise description of what the bug is.
+

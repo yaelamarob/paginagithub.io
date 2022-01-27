@@ -31,14 +31,6 @@ Tu puede consultar informacion de venta en [Opensea ](https://opensea.io/)
 [CV YAEL FACUNDO AMARO BARRERA SSB.pdf](https://github.com/yaelamarob/paginagithub.io/files/7929471/CV.YAEL.FACUNDO.AMARO.BARRERA.SSB.pdf)
 ![imagen de f1](https://user-images.githubusercontent.com/88688927/151027034-b8713e89-358e-4c6e-b2bf-715411020245.jpg)
 
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: bug
-assignees: ''
-
----
 **Acknowledge the following**
 - [ ] I carefully read and followed the [Getting Started](https://github.com/alshedivat/al-folio#getting-started) guide.
 - [ ] I read through [FAQ](https://github.com/alshedivat/al-folio#faq) and searched through the [past issues](https://github.com/alshedivat/al-folio/issues), none of which addressed my issue.
@@ -47,3 +39,21 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+"Adams":
+  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
+    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+
+"Podolsky":
+  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
+    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+
+"Rosen":
+  - firstname: ["Nathan", "N."]
+    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+
+"Bach": 
+  - firstname: ["Johann Sebastian", "J. S."]
+    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+
+  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
+    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
